@@ -1,7 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="" />
+    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson7/events.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/lesson1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/lesson2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/HTML/lesson3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Advanced/lesson1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Advanced/lesson2/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Advanced/lesson3/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Advanced/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/alerts.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson6/recursion.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson7/constructors.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson7/context.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson8/constructors_inheritance.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Base/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/DOM/practice/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/DOM/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Event-System/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson1/form-functions-dynamic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson2/form-validation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Regexp/lesson1/task.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Regexp/lesson2/advanced.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Regexp/lesson2/simple.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/JavaScript/Regexp/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQuery/lesson1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQuery/lesson2/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQuery/lesson3/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQuery/practise/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQueryUI/lesson1/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQueryUI/lesson2/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jQueryUI/practise/readme.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/BOM/lesson1.md" afterPath="$PROJECT_DIR$/lesson5/task1.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/BOM/lesson2.md" afterPath="$PROJECT_DIR$/lesson5/task2.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson1/readme.md" afterPath="$PROJECT_DIR$/lesson1/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/functions-advanced.md" afterPath="$PROJECT_DIR$/lesson4/functions-advanced.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/functions-simple.md" afterPath="$PROJECT_DIR$/lesson4/functions-simple.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/if_else.md" afterPath="$PROJECT_DIR$/lesson2/4-if_else.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/operators.md" afterPath="$PROJECT_DIR$/lesson2/2-operators.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson2/passing-by-reference.md" afterPath="$PROJECT_DIR$/lesson2/1-passing-by-reference.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson3/cycles.md" afterPath="$PROJECT_DIR$/lesson2/6-cycles.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson3/loops-statements.md" afterPath="$PROJECT_DIR$/lesson2/5-loops-statements.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson3/type_transformations.md" afterPath="$PROJECT_DIR$/lesson2/3-type_transformations.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson4/arrays.md" afterPath="$PROJECT_DIR$/lesson3/arrays.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson4/math-date.md" afterPath="$PROJECT_DIR$/lesson4/math-date.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson4/strings.md" afterPath="$PROJECT_DIR$/lesson3/strings.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson5/functions-advanced.md" afterPath="$PROJECT_DIR$/lesson4/functions-advanced-2.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson5/functions.md" afterPath="$PROJECT_DIR$/lesson4/functions.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson6/closure.md" afterPath="$PROJECT_DIR$/lesson6/closure.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson6/context.md" afterPath="$PROJECT_DIR$/lesson4/context.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Base/lesson7/algorithms.md" afterPath="$PROJECT_DIR$/lesson4/algorithms.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/DOM/lesson1/index.html" afterPath="$PROJECT_DIR$/lesson6/task1/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/DOM/lesson1/readme.md" afterPath="$PROJECT_DIR$/lesson6/task1/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/DOM/lesson2/readme.md" afterPath="$PROJECT_DIR$/lesson6/task2/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/Event-System/task.md" afterPath="$PROJECT_DIR$/lesson6/task.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson3/http-requests.md" afterPath="$PROJECT_DIR$/lesson8/http-requests.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +70,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="events.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson7/events.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="269">
+                <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+                <folding>
+                  <marker date="1507831910000" expanded="true" signature="178:606" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="186:268" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="276:598" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="312:496" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="321:369" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="378:426" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="435:483" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="502:589" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="723:1101" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="731:822" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="830:1093" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="839:1084" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="870:999" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1697:2131" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1708:1813" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1824:2123" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1870:2027" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1885:1939" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="1954:2008" ph="..." />
+                  <marker date="1507831910000" expanded="true" signature="2376:2442" ph="{...}" />
+                  <marker date="1507831910000" expanded="true" signature="2470:2698" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+                  <marker date="1507831910000" expanded="true" signature="2734:2750" ph="{...}" />
+                  <marker date="1507831910000" expanded="true" signature="2844:2884" ph="{...}" />
+                  <marker date="1507831910000" expanded="true" signature="2924:2941" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/JavaScript/Base/readme.md" />
+        <option value="$PROJECT_DIR$/JavaScript/Base/lesson6/task.md" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -46,32 +170,6 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="External Dependencies">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="/">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Users">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="kl2karpenko">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Desktop">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -88,6 +186,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/JavaScript/Base/lesson6" />
+      <recent name="$PROJECT_DIR$/JavaScript/Base/lesson7" />
+      <recent name="$PROJECT_DIR$/JavaScript/Base/lesson8" />
+      <recent name="$PROJECT_DIR$/JavaScript/Base/ajax" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -100,6 +207,68 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -111,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507830677374</updated>
       <workItem from="1507830678780" duration="90000" />
-      <workItem from="1507830776201" duration="57000" />
+      <workItem from="1507830776201" duration="1234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="147000" />
+    <option name="totallyTimeSpent" value="1324000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -146,8 +315,367 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit structure" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lesson2/6-cycles.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/4-if_else.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-16">
+            <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/5-loops-statements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-91">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/2-operators.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/arrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="2163:2321" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/strings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="283">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Base/lesson7/context.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Base/lesson7/constructors.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5/task1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/practice/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="22">
+            <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/DOM/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="180:212" ph="/*...*/" />
+              <marker date="1507830662000" expanded="true" signature="215:235" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="3327:3393" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Event-System/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1592">
+            <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="178:606" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="186:268" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="276:598" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="312:496" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="321:369" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="378:426" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="435:483" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="502:589" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="723:1101" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="731:822" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="830:1093" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="839:1084" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="870:999" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1697:2131" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1708:1813" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1824:2123" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1870:2027" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1885:1939" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="1954:2008" ph="..." />
+              <marker date="1507830662000" expanded="true" signature="2376:2442" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="2470:2698" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1507830662000" expanded="true" signature="2734:2750" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="2844:2884" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="2924:2941" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/closure.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="267">
+            <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="66:172" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="98:127" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="723:743" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1503:1524" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1831:1834" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5/task2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/functions-advanced-2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-181">
+            <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="1445:1507" ph="//..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson8/http-requests.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/functions.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="209">
+            <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="156:235" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="423:520" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="436:456" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="462:482" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="636:647" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="981:1007" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1021:1048" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1155:1175" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Advanced/lesson2/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Advanced/lesson3/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/Advanced/lesson1/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/events.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="269">
+            <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+            <folding>
+              <marker date="1507831910000" expanded="true" signature="178:606" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="186:268" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="276:598" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="312:496" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="321:369" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="378:426" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="435:483" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="502:589" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="723:1101" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="731:822" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="830:1093" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="839:1084" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="870:999" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1697:2131" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1708:1813" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1824:2123" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1870:2027" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1885:1939" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1954:2008" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="2376:2442" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2470:2698" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1507831910000" expanded="true" signature="2734:2750" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2844:2884" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2924:2941" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
