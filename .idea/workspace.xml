@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="edit structure">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson2/4-if_else.md" afterPath="$PROJECT_DIR$/lesson3/4-if_else.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson2/5-loops-statements.md" afterPath="$PROJECT_DIR$/lesson3/5-loops-statements.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson2/6-cycles.md" afterPath="$PROJECT_DIR$/lesson3/6-cycles.md" />
+    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/1-passing-by-reference.md" afterPath="$PROJECT_DIR$/lesson2/1-passing-by-reference.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -110,8 +106,8 @@
         <entry file="file://$PROJECT_DIR$/lesson2/3-type_transformations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="345">
-                <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -312,16 +308,23 @@
       <updated>1507830677374</updated>
       <workItem from="1507830678780" duration="90000" />
       <workItem from="1507830776201" duration="1450000" />
-      <workItem from="1507905342819" duration="65000" />
+      <workItem from="1507905342819" duration="76000" />
     </task>
+    <task id="LOCAL-00001" summary="edit 2 lesson">
+      <created>1507905415268</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1507905415268</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1605000" />
+    <option name="totallyTimeSpent" value="1616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098713" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -350,7 +353,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edit structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit structure" />
+    <MESSAGE value="edit 2 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit 2 lesson" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -695,8 +699,8 @@
     <entry file="file://$PROJECT_DIR$/lesson2/3-type_transformations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="345">
-            <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
             <folding />
           </first_editor>
           <second_editor />
