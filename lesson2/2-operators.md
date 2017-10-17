@@ -15,7 +15,7 @@ var r = '6' + null;
 
 var r = '6' + [];
 
-var r = '6' + null;
+var r = '6' + undefined;
 ```
 
 ## 2 задание
