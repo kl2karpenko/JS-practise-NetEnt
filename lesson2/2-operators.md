@@ -58,11 +58,14 @@ var r = "2" != 2;
 
 var r = "2" !== 2;
 
-var r = ++2 + 2;
+var t = ++2;
+var r = t + 2;
 
-var r = ++2 + 2--;
+var r = t + 2--;
 
-var r = 1++ - 2--;
+var u = 1++;
+var w = 2--;
+var r = u - w;
 ```
 
 
