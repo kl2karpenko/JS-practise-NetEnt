@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson5/task2.md" afterPath="$PROJECT_DIR$/lesson5/bom.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +58,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="0">
-                <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+                <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -70,7 +71,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="75">
-                <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+                <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
                 <folding>
                   <marker date="1507905384000" expanded="true" signature="96:108" ph="{...}" />
                   <marker date="1507905384000" expanded="true" signature="208:231" ph="{...}" />
@@ -93,8 +94,8 @@
         <entry file="file://$PROJECT_DIR$/lesson2/2-operators.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="101">
-                <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -102,12 +103,59 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="3-type_transformations.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="3-type_transformations.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson2/3-type_transformations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="135">
-                <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+              <first_editor relative-caret-position="180">
+                <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+                <folding>
+                  <marker date="1507830662000" expanded="true" signature="731:759" ph="{&quot;i&quot;: 'hello'...}" />
+                  <marker date="1507830662000" expanded="true" signature="904:948" ph="{...}" />
+                  <marker date="1507830662000" expanded="true" signature="929:946" ph="{...}" />
+                  <marker date="1507830662000" expanded="true" signature="1108:1152" ph="{...}" />
+                  <marker date="1507830662000" expanded="true" signature="1133:1150" ph="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrays.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson3/arrays.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1507830662000" expanded="true" signature="2163:2321" ph="[...]" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="task1.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson5/task1.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bom.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson5/bom.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="298">
+                <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -157,6 +205,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -165,6 +214,34 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lesson5">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="lesson4">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -199,7 +276,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,6 +375,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="" />
@@ -308,7 +387,8 @@
       <updated>1507830677374</updated>
       <workItem from="1507830678780" duration="90000" />
       <workItem from="1507830776201" duration="1450000" />
-      <workItem from="1507905342819" duration="76000" />
+      <workItem from="1507905342819" duration="3237000" />
+      <workItem from="1508260010565" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="edit 2 lesson">
       <created>1507905415268</created>
@@ -321,13 +401,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1616000" />
+    <option name="totallyTimeSpent" value="4808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19098713" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19384836" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -401,6 +482,103 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
+            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/1-passing-by-reference.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <folding>
+              <marker date="1507905384000" expanded="true" signature="96:108" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="208:231" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="301:318" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="394:411" ph="{&quot;number&quot;: t...}" />
+              <marker date="1507905384000" expanded="true" signature="496:534" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="507:532" ph="{&quot;name&quot;: &quot;L&quot;...}" />
+              <marker date="1507905384000" expanded="true" signature="547:565" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="748:786" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="759:784" ph="{...}" />
+              <marker date="1507905384000" expanded="true" signature="803:823" ph="{&quot;str&quot;: &quot;Kolya&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/2-operators.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson2/3-type_transformations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="731:759" ph="{&quot;i&quot;: 'hello'...}" />
+              <marker date="1507830662000" expanded="true" signature="904:948" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="929:946" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1108:1152" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1133:1150" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/events.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2145">
+            <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
+            <folding>
+              <marker date="1507831910000" expanded="true" signature="178:606" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="186:268" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="276:598" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="312:496" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="321:369" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="378:426" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="435:483" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="502:589" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="723:1101" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="731:822" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="830:1093" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="839:1084" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="870:999" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1697:2131" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1708:1813" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1824:2123" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1870:2027" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1885:1939" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="1954:2008" ph="..." />
+              <marker date="1507831910000" expanded="true" signature="2376:2442" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2470:2698" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1507831910000" expanded="true" signature="2734:2750" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2844:2884" ph="{...}" />
+              <marker date="1507831910000" expanded="true" signature="2924:2941" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
             <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
             <folding />
           </first_editor>
@@ -413,7 +591,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="225">
             <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -435,20 +612,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-91">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/arrays.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-            <folding>
-              <marker date="1507830662000" expanded="true" signature="2163:2321" ph="[...]" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -459,7 +622,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="283">
             <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -467,17 +629,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/Base/lesson7/context.md" />
     <entry file="file://$PROJECT_DIR$/JavaScript/Base/lesson7/constructors.md" />
-    <entry file="file://$PROJECT_DIR$/lesson5/task1.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/DOM/practice/readme.md" />
     <entry file="file://$PROJECT_DIR$/JavaScript/DOM/readme.md" />
     <entry file="file://$PROJECT_DIR$/JavaScript/HTTP, Ajax, forms/lesson4.js" />
@@ -486,11 +637,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1507830662000" expanded="true" signature="180:212" ph="/*...*/" />
-              <marker date="1507830662000" expanded="true" signature="215:235" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="3327:3393" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -501,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,32 +655,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="-1592">
             <caret line="15" column="23" lean-forward="false" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-            <folding>
-              <marker date="1507830662000" expanded="true" signature="178:606" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="186:268" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="276:598" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="312:496" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="321:369" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="378:426" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="435:483" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="502:589" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="723:1101" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="731:822" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="830:1093" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="839:1084" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="870:999" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1697:2131" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1708:1813" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1824:2123" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1870:2027" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1885:1939" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="1954:2008" ph="..." />
-              <marker date="1507830662000" expanded="true" signature="2376:2442" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="2470:2698" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
-              <marker date="1507830662000" expanded="true" signature="2734:2750" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="2844:2884" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="2924:2941" ph="{...}" />
-            </folding>
           </first_editor>
           <second_editor />
         </state>
@@ -546,24 +665,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="267">
             <caret line="92" column="22" lean-forward="false" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
-            <folding>
-              <marker date="1507830662000" expanded="true" signature="66:172" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="98:127" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="723:743" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="1503:1524" ph="{...}" />
-              <marker date="1507830662000" expanded="true" signature="1831:1834" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson5/task2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -587,7 +688,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -656,7 +756,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
-            <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+            <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
             <folding />
           </first_editor>
           <second_editor />
@@ -667,7 +767,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="75">
-            <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             <folding>
               <marker date="1507905384000" expanded="true" signature="96:108" ph="{...}" />
               <marker date="1507905384000" expanded="true" signature="208:231" ph="{...}" />
@@ -688,8 +788,8 @@
     <entry file="file://$PROJECT_DIR$/lesson2/2-operators.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="101">
-            <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="20" lean-forward="false" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
             <folding />
           </first_editor>
           <second_editor />
@@ -699,8 +799,49 @@
     <entry file="file://$PROJECT_DIR$/lesson2/3-type_transformations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="135">
-            <caret line="9" column="31" lean-forward="true" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="731:759" ph="{&quot;i&quot;: 'hello'...}" />
+              <marker date="1507830662000" expanded="true" signature="904:948" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="929:946" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1108:1152" ph="{...}" />
+              <marker date="1507830662000" expanded="true" signature="1133:1150" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/arrays.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1507830662000" expanded="true" signature="2163:2321" ph="[...]" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5/task1.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson5/bom.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="298">
+            <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
