@@ -33,6 +33,9 @@ var r = '6' + undefined;
 
 ```javascript
 var r;
+var t = ++2;
+var u = 1++;
+var w = 2--;
 
 r = 6 && 0 && 7;
 
@@ -60,14 +63,11 @@ r = "2" != 2;
 
 r = "2" !== 2;
 
-var t = ++2;
 r = t + 2;
 
 r = t + 2--;
 
-var u = 1++;
-var w = 2--;
-var r = u - w;
+r = u - w;
 ```
 
 
