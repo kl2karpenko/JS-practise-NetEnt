@@ -32,36 +32,38 @@ var r = '6' + undefined;
 Определите результат в следующих случаях:
 
 ```javascript
-var r = 6 && 0 && 7;
+var r;
 
-var r = -9 && -8;
+r = 6 && 0 && 7;
 
-var r = 6 && 0 && 7;
+r = -9 && -8;
 
-var r = "string" && 0;
+r = 6 && 0 && 7;
 
-var r = [] && {} && 7;
+r = "string" && 0;
 
-var r = [] || 7;
+r = [] && {} && 7;
 
-var r = {} || 0;
+r = [] || 7;
 
-var r = false || true;
+r = {} || 0;
 
-var r = "2" > "3";
+r = false || true;
 
-var r = "ab" <= "fg";
+r = "2" > "3";
 
-var r = "2k" <= "8l";
+r = "ab" <= "fg";
 
-var r = "2" != 2;
+r = "2k" <= "8l";
 
-var r = "2" !== 2;
+r = "2" != 2;
+
+r = "2" !== 2;
 
 var t = ++2;
-var r = t + 2;
+r = t + 2;
 
-var r = t + 2--;
+r = t + 2--;
 
 var u = 1++;
 var w = 2--;
