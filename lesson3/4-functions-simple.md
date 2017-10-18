@@ -7,13 +7,12 @@ function getName(x, y) {
 // your code here
 }
 
-getName(); // if I put "Lily" in promt I will see in alert: "Hello, Lily";
-
+getName(); // if I put "Lily" in prompt I will see in alert: "Hello, Lily";
 ```
 
 ## 2 task
 
-Create function double(x) that returns the number multiply with 2
+Create function double(x) that returns the number passed to it as an argument, multiply with 2
 
 ```javascript
 function double(x) {
@@ -37,7 +36,16 @@ range(1,3); // logs in console => 6
 
 ## 4 task
 
-Create a function that returns the number multiply with 2 and then with 3 use the previous function double; 
+Напишите функцию которая будет находить сумму простых чисел меньших переданному в нее значению. 
+Пример работы:
+
+```javascript
+function getPrimesSumBelow(x, y) {
+// your code here
+}
+
+getPrimesSumBelow(10); // 2 + 3 + 5 + 7 = 17
+```
 
 ## 5 task
 
