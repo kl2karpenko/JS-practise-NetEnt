@@ -59,6 +59,10 @@ getName(); // ?
 ```
 
 ### 4
+
+Example of recurtion in function, when it returns itself on some condition& 
+Example how can we use isNaN function and how to write functions, that check all of the possibility of errors in it: 
+
 ```javascript
 function getNumberInRange( rangeStart, rangeEnd, number) {
   // check if some of our arguments is not a number return the new call of this function
