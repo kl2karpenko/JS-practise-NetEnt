@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="edit 2 lesson">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson4/context.md" afterPath="$PROJECT_DIR$/lesson5/context.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson4/functions-advanced-2.md" afterPath="$PROJECT_DIR$/lesson4/functions.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson4/functions-advanced.md" afterPath="$PROJECT_DIR$/lesson5/functions-advanced.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson4/functions.md" afterPath="$PROJECT_DIR$/lesson5/functions-scopes.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson4/math-date.md" afterPath="$PROJECT_DIR$/lesson5/math-date.md" />
+    <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/3-func-examples.md" afterPath="$PROJECT_DIR$/lesson3/3-func-examples.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/algorithms.md" afterPath="$PROJECT_DIR$/lesson4/algorithms.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/arrays.md" afterPath="$PROJECT_DIR$/lesson4/arrays.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -108,8 +100,8 @@
         <entry file="file://$PROJECT_DIR$/lesson4/algorithms.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="277">
-                <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+              <first_editor relative-caret-position="202">
+                <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
                 <folding>
                   <marker date="1508497229000" expanded="true" signature="549:577" ph="{&quot;className&quot;: 'open menu'...}" />
                   <marker date="1508497229000" expanded="true" signature="1125:1153" ph="{&quot;className&quot;: 'open menu'...}" />
@@ -210,10 +202,10 @@
         <option value="$PROJECT_DIR$/lesson4/math-date.md" />
         <option value="$PROJECT_DIR$/lesson4/functions-advanced.md" />
         <option value="$PROJECT_DIR$/lesson3/3-functions-simple.md" />
-        <option value="$PROJECT_DIR$/lesson4/algorithms.md" />
         <option value="$PROJECT_DIR$/lesson4/arrays.md" />
         <option value="$PROJECT_DIR$/lesson3/3-func-examples.md" />
         <option value="$PROJECT_DIR$/lesson4/functions-advanced-2.md" />
+        <option value="$PROJECT_DIR$/lesson4/algorithms.md" />
       </list>
     </option>
   </component>
@@ -280,35 +272,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lesson4">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="lesson3">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Mentor-Hometasks">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="lesson2">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -432,7 +396,7 @@
       <workItem from="1507905342819" duration="3237000" />
       <workItem from="1508260010565" duration="574000" />
       <workItem from="1508313369706" duration="2156000" />
-      <workItem from="1508497190774" duration="507000" />
+      <workItem from="1508497190774" duration="877000" />
     </task>
     <task id="LOCAL-00001" summary="edit 2 lesson">
       <created>1507905415268</created>
@@ -483,11 +447,18 @@
       <option name="project" value="LOCAL" />
       <updated>1508317903982</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="edit 2 lesson">
+      <created>1508497721389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1508497721389</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8014000" />
+    <option name="totallyTimeSpent" value="8384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1163,8 +1134,8 @@
     <entry file="file://$PROJECT_DIR$/lesson4/algorithms.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="277">
-            <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <first_editor relative-caret-position="202">
+            <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
             <folding>
               <marker date="1508497229000" expanded="true" signature="549:577" ph="{&quot;className&quot;: 'open menu'...}" />
               <marker date="1508497229000" expanded="true" signature="1125:1153" ph="{&quot;className&quot;: 'open menu'...}" />
