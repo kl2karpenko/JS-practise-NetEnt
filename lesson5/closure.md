@@ -1,3 +1,8 @@
+#### Links for additional info:
+* https://learn.javascript.ru/recursion
+* https://learn.javascript.ru/global-object
+* https://learn.javascript.ru/closures
+
 ## 1 task
 
 Example:

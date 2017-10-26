@@ -1,3 +1,7 @@
+#### Links for additional info:
+* https://learn.javascript.ru/ifelse
+* https://learn.javascript.ru/switch
+
 # Домашнее задание по условным операторам JS.
 
 ## 1 задание

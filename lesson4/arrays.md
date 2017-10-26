@@ -1,3 +1,7 @@
+#### Links for additional info:
+* https://learn.javascript.ru/array
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
+
 # Домашнее задание по JS.
  
 ## 1 задание

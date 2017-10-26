@@ -1,3 +1,19 @@
+#### Links for additional info:
+* https://learn.javascript.ru/browser-environment
+* https://learn.javascript.ru/dom-nodes
+* https://learn.javascript.ru/dom-console
+* https://learn.javascript.ru/traversing-dom
+* https://learn.javascript.ru/styles-and-classes
+* https://learn.javascript.ru/attributes-and-custom-properties
+* https://learn.javascript.ru/searching-elements-dom
+* https://learn.javascript.ru/searching-elements-internals
+* https://learn.javascript.ru/basic-dom-node-properties
+* https://learn.javascript.ru/dom-polyfill
+* https://learn.javascript.ru/attributes-and-custom-properties
+* https://learn.javascript.ru/compare-document-position
+* https://learn.javascript.ru/modifying-document
+* https://learn.javascript.ru/document-write
+
 # Домашнее задание по JS.
 
 ## 1 task

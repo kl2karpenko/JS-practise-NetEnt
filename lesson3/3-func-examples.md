@@ -1,3 +1,8 @@
+#### Links for additional info:
+* http://true-coder.ru/js-dlya-nachinayushhix/js-dlya-nachinayushhix-urok-1-14-sobstvennye-funkcii.html
+* https://learn.javascript.ru/function-basics
+* https://learn.javascript.ru/function-declaration-expression
+
 ## Please write the result of statements:
 
 ### 1

@@ -1,3 +1,9 @@
+#### Links for additional info:
+* https://learn.javascript.ru/global-object
+* https://learn.javascript.ru/closures
+* https://learn.javascript.ru/closures-module
+* https://learn.javascript.ru/closures-usage
+
 # Домашнее задание по JS - контексты
 
 ## Опеределить на какой контекст будет ссылатся this в результате выполнений следующих примеров

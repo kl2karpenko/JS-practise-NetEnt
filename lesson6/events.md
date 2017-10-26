@@ -1,3 +1,27 @@
+#### Links for additional info:
+
+* https://learn.javascript.ru/introduction-browser-events
+* https://learn.javascript.ru/events-and-timing-depth
+* https://learn.javascript.ru/obtaining-event-object
+* https://learn.javascript.ru/event-bubbling
+* https://learn.javascript.ru/event-delegation
+* https://learn.javascript.ru/default-browser-action
+* https://learn.javascript.ru/dispatch-events
+* https://learn.javascript.ru/onload-ondomcontentloaded
+* https://learn.javascript.ru/onload-onerror
+* https://learn.javascript.ru/onscroll
+* https://learn.javascript.ru/keyboard-events
+* https://learn.javascript.ru/mouse-clicks
+* https://learn.javascript.ru/unselectable
+* https://learn.javascript.ru/mousemove-mouseover-mouseout-mouseenter-mouseleave
+* https://learn.javascript.ru/drag-and-drop
+* https://learn.javascript.ru/mousewheel
+* https://learn.javascript.ru/fixevent
+* http://javascript.ru/tutorial/events/comparison
+* http://javascript.ru/tutorial/events/crossbrowser
+* http://javascript.ru/tutorial/events/properties
+* http://javascript.ru/tutorial/events/intro
+
 ## 1 task
 
 Write a JavaScript function that accept row, column, (to identify a particular cell) and a string to update the content of that cell. 

@@ -1,5 +1,8 @@
 ### Опишите что будет в результате выполнения следующих операций
 
+#### Links for additional info:
+* https://learn.javascript.ru/object-reference
+
 #### 1
 
 ```javascript

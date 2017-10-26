@@ -1,9 +1,6 @@
-## Read about functions
+#### Links for additional info:
 
-Passing a function to another function as a callback:
-
-Please read this article we will talk about this on our 6 lesson:
-
+##### Passing a function to another function as a callback:
 * https://learn.javascript.ru/settimeout-setinterval 
 * https://forum.freecodecamp.org/t/javascript-callback-functions/14658
 * https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach

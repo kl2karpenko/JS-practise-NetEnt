@@ -1,3 +1,6 @@
+#### Links for additional info:
+* https://learn.javascript.ru/while-for
+
 # Домашнее задание по цыклам JS.
 
 ## 1 задание

@@ -1,3 +1,8 @@
+#### Links for additional info:
+* https://learn.javascript.ru/operators
+* https://learn.javascript.ru/comparison
+* https://learn.javascript.ru/logical-ops
+
 ## 1 задание
 
 Определите результат и тип переменных в следующих случаях:

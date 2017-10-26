@@ -1,3 +1,34 @@
+#### Links for additional info:
+##### Arrays
+
+* https://learn.javascript.ru/array
+* https://learn.javascript.ru/array-methods
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/pop
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/push
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/shift
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array/unshif
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
+
+##### String:
+
+* https://learn.javascript.ru/string
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/charAt
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/search
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/split
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/substring
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
+* https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/Trim
+
 ## 1 task
 
 Дана строка 'aaa@bbb@ccc'. Замените все @ на '!' с помощью глобального поиска и замены.
