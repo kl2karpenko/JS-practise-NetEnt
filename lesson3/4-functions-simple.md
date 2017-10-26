@@ -3,11 +3,11 @@
 Create function "getName" that ask user his name with promt window and alerts his name to him in format: "Hello, <his_name>".
 
 ```javascript
-function getName(x, y) {
+function showName(name) {
 // your code here
 }
 
-getName(); // if I put "Lily" in prompt I will see in alert: "Hello, Lily";
+showName("Lily"); // "Hello, Lily";
 ```
 
 ## 2 task
