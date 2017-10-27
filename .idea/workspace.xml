@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9bddcc3-beff-4b0f-a87e-25e31c454d6f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lesson6/dom-advanced.md" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/lesson6/events.md" afterPath="$PROJECT_DIR$/lesson7/events.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/1-passing-by-reference.md" afterPath="$PROJECT_DIR$/lesson2/1-passing-by-reference.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/2-operators.md" afterPath="$PROJECT_DIR$/lesson2/2-operators.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson2/3-type_transformations.md" afterPath="$PROJECT_DIR$/lesson2/3-type_transformations.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/1-if_else.md" afterPath="$PROJECT_DIR$/lesson3/1-if_else.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/2-cycles.md" afterPath="$PROJECT_DIR$/lesson3/2-cycles.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/3-func-examples.md" afterPath="$PROJECT_DIR$/lesson3/3-func-examples.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/arrays.md" afterPath="$PROJECT_DIR$/lesson4/arrays.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/strings.md" afterPath="$PROJECT_DIR$/lesson4/strings.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/closure.md" afterPath="$PROJECT_DIR$/lesson5/closure.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/context.md" afterPath="$PROJECT_DIR$/lesson5/context.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson5/readme.md" afterPath="$PROJECT_DIR$/lesson5/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/dom.md" afterPath="$PROJECT_DIR$/lesson6/dom.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson6/events.md" afterPath="$PROJECT_DIR$/lesson6/events.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,37 +17,38 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="events.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson6/events.md">
+      <file leaf-file-name="events.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson7/events.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="330">
-                <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+              <first_editor relative-caret-position="749">
+                <caret line="200" column="3" lean-forward="false" selection-start-line="200" selection-start-column="3" selection-end-line="200" selection-end-column="3" />
                 <folding>
-                  <marker date="1509047348000" expanded="true" signature="1242:1670" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1250:1332" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1340:1662" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1376:1560" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1385:1433" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1442:1490" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1499:1547" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1566:1653" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1787:2165" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1795:1886" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1894:2157" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1903:2148" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="1934:2063" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="2761:3195" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="2772:2877" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="2888:3187" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="2934:3091" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="2949:3003" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="3018:3072" ph="..." />
-                  <marker date="1509047348000" expanded="true" signature="3440:3506" ph="{...}" />
-                  <marker date="1509047348000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
-                  <marker date="1509047348000" expanded="true" signature="3798:3814" ph="{...}" />
-                  <marker date="1509047348000" expanded="true" signature="3908:3948" ph="{...}" />
-                  <marker date="1509047348000" expanded="true" signature="3988:4005" ph="{...}" />
+                  <marker date="1509128414000" expanded="true" signature="1242:1670" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1250:1332" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1340:1662" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1376:1560" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1385:1433" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1442:1490" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1499:1547" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1566:1653" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1787:2165" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1795:1886" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1894:2157" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1903:2148" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="1934:2063" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="2761:3195" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="2772:2877" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="2888:3187" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="2934:3091" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="2949:3003" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="3018:3072" ph="..." />
+                  <marker date="1509128414000" expanded="true" signature="3440:3506" ph="{...}" />
+                  <marker date="1509128414000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+                  <marker date="1509128414000" expanded="true" signature="3798:3814" ph="{...}" />
+                  <marker date="1509128414000" expanded="true" signature="3908:3948" ph="{...}" />
+                  <marker date="1509128414000" expanded="true" signature="3988:4005" ph="{...}" />
+                  <marker date="1509128414000" expanded="true" signature="6353:6419" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -143,12 +134,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="algorithms.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="algorithms.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson4/algorithms.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <first_editor relative-caret-position="360">
+                <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
                 <folding>
                   <marker date="1509046968000" expanded="true" signature="549:577" ph="{&quot;className&quot;: 'open menu'...}" />
                   <marker date="1509046968000" expanded="true" signature="1125:1153" ph="{&quot;className&quot;: 'open menu'...}" />
@@ -161,38 +152,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dom-advanced.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson6/dom-advanced.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dom.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson6/dom.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="45">
-                <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
+              <first_editor relative-caret-position="269">
+                <caret line="109" column="12" lean-forward="true" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
                 <folding>
-                  <marker date="1509047302000" expanded="true" signature="989:1305" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="998:1039" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1050:1297" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1060:1200" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1473:1754" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1482:1567" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1579:1744" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1650:1732" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1678:1719" ph="..." />
-                  <marker date="1509047302000" expanded="true" signature="1916:1948" ph="/*...*/" />
-                  <marker date="1509047302000" expanded="true" signature="1951:1971" ph="{...}" />
-                  <marker date="1509047302000" expanded="true" signature="5064:5130" ph="{...}" />
+                  <marker date="1509128643000" expanded="true" signature="1784:2015" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="1793:1834" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="1845:2007" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="1855:1995" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2180:2461" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2189:2274" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2286:2451" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2357:2439" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2385:2426" ph="..." />
+                  <marker date="1509128643000" expanded="true" signature="2623:2655" ph="/*...*/" />
+                  <marker date="1509128643000" expanded="true" signature="2658:2681" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -277,9 +254,10 @@
         <option value="$PROJECT_DIR$/lesson5/closure.md" />
         <option value="$PROJECT_DIR$/lesson5/context.md" />
         <option value="$PROJECT_DIR$/lesson5/readme.md" />
-        <option value="$PROJECT_DIR$/lesson6/dom-advanced.md" />
-        <option value="$PROJECT_DIR$/lesson6/dom.md" />
         <option value="$PROJECT_DIR$/lesson6/events.md" />
+        <option value="$PROJECT_DIR$/lesson6/dom-advanced.md" />
+        <option value="$PROJECT_DIR$/lesson7/events.md" />
+        <option value="$PROJECT_DIR$/lesson6/dom.md" />
       </list>
     </option>
   </component>
@@ -447,9 +425,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lesson7" />
       <recent name="$PROJECT_DIR$/lesson6" />
       <recent name="$PROJECT_DIR$/lesson6/task2" />
-      <recent name="$PROJECT_DIR$/lesson7" />
       <recent name="$PROJECT_DIR$/lesson5" />
       <recent name="$PROJECT_DIR$/lesson4" />
     </key>
@@ -558,7 +536,7 @@
       <workItem from="1508497190774" duration="1121000" />
       <workItem from="1508675235448" duration="754000" />
       <workItem from="1508919195674" duration="3424000" />
-      <workItem from="1508944603428" duration="2543000" />
+      <workItem from="1508944603428" duration="3815000" />
     </task>
     <task id="LOCAL-00001" summary="edit 2 lesson">
       <created>1507905415268</created>
@@ -651,18 +629,25 @@
       <option name="project" value="LOCAL" />
       <updated>1509046402567</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add inks to read and update 6 lesson">
+      <created>1509047362604</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1509047362604</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15349000" />
+    <option name="totallyTimeSpent" value="16621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553648" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23819743" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -690,7 +675,8 @@
     <MESSAGE value="edit structure" />
     <MESSAGE value="edit 2 lesson" />
     <MESSAGE value="edit lesson 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit lesson 5" />
+    <MESSAGE value="add inks to read and update 6 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="add inks to read and update 6 lesson" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -731,36 +717,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/events.md">
+    <entry file="file://$PROJECT_DIR$/lesson7/events.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2145">
             <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
             <folding>
-              <marker date="1509047348000" expanded="true" signature="1242:1670" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1250:1332" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1340:1662" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1376:1560" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1385:1433" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1442:1490" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1499:1547" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1566:1653" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1787:2165" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1795:1886" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1894:2157" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1903:2148" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1934:2063" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2761:3195" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2772:2877" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2888:3187" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2934:3091" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2949:3003" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3018:3072" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3440:3506" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
-              <marker date="1509047348000" expanded="true" signature="3798:3814" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3908:3948" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="1242:1670" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1250:1332" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1340:1662" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1376:1560" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1385:1433" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1442:1490" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1499:1547" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1566:1653" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1787:2165" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1795:1886" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1894:2157" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1903:2148" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1934:2063" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2761:3195" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2772:2877" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2888:3187" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2934:3091" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2949:3003" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3018:3072" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3440:3506" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1509128414000" expanded="true" signature="3798:3814" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3908:3948" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="6353:6419" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -827,36 +814,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/events.md">
+    <entry file="file://$PROJECT_DIR$/lesson7/events.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="2145">
             <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="143" selection-end-column="0" />
             <folding>
-              <marker date="1509047348000" expanded="true" signature="1242:1670" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1250:1332" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1340:1662" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1376:1560" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1385:1433" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1442:1490" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1499:1547" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1566:1653" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1787:2165" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1795:1886" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1894:2157" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1903:2148" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1934:2063" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2761:3195" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2772:2877" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2888:3187" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2934:3091" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2949:3003" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3018:3072" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3440:3506" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
-              <marker date="1509047348000" expanded="true" signature="3798:3814" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3908:3948" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="1242:1670" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1250:1332" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1340:1662" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1376:1560" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1385:1433" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1442:1490" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1499:1547" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1566:1653" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1787:2165" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1795:1886" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1894:2157" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1903:2148" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1934:2063" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2761:3195" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2772:2877" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2888:3187" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2934:3091" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2949:3003" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3018:3072" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3440:3506" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1509128414000" expanded="true" signature="3798:3814" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3908:3948" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="6353:6419" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
@@ -1107,22 +1095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/algorithms.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1509046968000" expanded="true" signature="549:577" ph="{&quot;className&quot;: 'open menu'...}" />
-              <marker date="1509046968000" expanded="true" signature="1125:1153" ph="{&quot;className&quot;: 'open menu'...}" />
-              <marker date="1509046968000" expanded="true" signature="1496:1527" ph="{&quot;className&quot;: 'my menu menu'...}" />
-              <marker date="1509046968000" expanded="true" signature="2717:2776" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson5/closure.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1222,6 +1194,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/events.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="749">
+            <caret line="200" column="3" lean-forward="false" selection-start-line="200" selection-start-column="3" selection-end-line="200" selection-end-column="3" />
+            <folding>
+              <marker date="1509128414000" expanded="true" signature="1242:1670" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1250:1332" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1340:1662" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1376:1560" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1385:1433" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1442:1490" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1499:1547" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1566:1653" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1787:2165" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1795:1886" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1894:2157" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1903:2148" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="1934:2063" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2761:3195" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2772:2877" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2888:3187" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2934:3091" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="2949:3003" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3018:3072" ph="..." />
+              <marker date="1509128414000" expanded="true" signature="3440:3506" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
+              <marker date="1509128414000" expanded="true" signature="3798:3814" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3908:3948" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509128414000" expanded="true" signature="6353:6419" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/dom.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="269">
+            <caret line="109" column="12" lean-forward="true" selection-start-line="109" selection-start-column="12" selection-end-line="109" selection-end-column="12" />
+            <folding>
+              <marker date="1509128643000" expanded="true" signature="1784:2015" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="1793:1834" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="1845:2007" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="1855:1995" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2180:2461" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2189:2274" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2286:2451" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2357:2439" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2385:2426" ph="..." />
+              <marker date="1509128643000" expanded="true" signature="2623:2655" ph="/*...*/" />
+              <marker date="1509128643000" expanded="true" signature="2658:2681" ph="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson6/dom-advanced.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1233,60 +1265,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/dom.md">
+    <entry file="file://$PROJECT_DIR$/lesson4/algorithms.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="2" />
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             <folding>
-              <marker date="1509047302000" expanded="true" signature="989:1305" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="998:1039" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1050:1297" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1060:1200" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1473:1754" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1482:1567" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1579:1744" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1650:1732" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1678:1719" ph="..." />
-              <marker date="1509047302000" expanded="true" signature="1916:1948" ph="/*...*/" />
-              <marker date="1509047302000" expanded="true" signature="1951:1971" ph="{...}" />
-              <marker date="1509047302000" expanded="true" signature="5064:5130" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/events.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="2" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-            <folding>
-              <marker date="1509047348000" expanded="true" signature="1242:1670" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1250:1332" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1340:1662" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1376:1560" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1385:1433" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1442:1490" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1499:1547" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1566:1653" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1787:2165" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1795:1886" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1894:2157" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1903:2148" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="1934:2063" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2761:3195" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2772:2877" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2888:3187" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2934:3091" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="2949:3003" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3018:3072" ph="..." />
-              <marker date="1509047348000" expanded="true" signature="3440:3506" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3534:3762" ph="/** Показывает уведомление, пропадающее через 5 сек ...*/" />
-              <marker date="1509047348000" expanded="true" signature="3798:3814" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3908:3948" ph="{...}" />
-              <marker date="1509047348000" expanded="true" signature="3988:4005" ph="{...}" />
+              <marker date="1509046968000" expanded="true" signature="549:577" ph="{&quot;className&quot;: 'open menu'...}" />
+              <marker date="1509046968000" expanded="true" signature="1125:1153" ph="{&quot;className&quot;: 'open menu'...}" />
+              <marker date="1509046968000" expanded="true" signature="1496:1527" ph="{&quot;className&quot;: 'my menu menu'...}" />
+              <marker date="1509046968000" expanded="true" signature="2717:2776" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
