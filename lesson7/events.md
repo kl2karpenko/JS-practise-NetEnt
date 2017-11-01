@@ -20,6 +20,37 @@
 * http://javascript.ru/tutorial/events/properties
 * http://javascript.ru/tutorial/events/intro
 
+## task form lesson 
+
+```html
+  <form action="">
+    <div>
+      <input type="text">
+      <!-- here is text -->
+    </div>
+
+    <div>
+      <textarea name="" id="" cols="30" rows="10"></textarea>
+      <!-- here is text -->
+    </div>
+
+    <div>
+      <input type="checkbox">
+      <!-- this is checked = true -->
+    </div>
+
+    <button>Submit</button>
+  </form>
+
+  <script>
+    document.querySelector('form').addEventListener('submit', function (evt) {
+      // if all the conditions true do noting
+      // else if something is false we should do this:
+      // evt.preventDefault();
+    });
+  </script>
+```
+
 ## 1 task
 
 Write a JavaScript function that accept row, column, (to identify a particular cell) and a string to update the content of that cell. 
