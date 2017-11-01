@@ -23,9 +23,11 @@ var y = f(3);
 // now y is 4
 ```
 
-Create a function that will always return a number multiply on 3!
+Create a function that will always return a number multiply on 3.
 
 Write a JavaScript program to calculate the factorial of a number using 1 task, but ask user for a number to get factorial from using prompt() function.
+
+!! TODO
 
 Then give an answer to user after calculation is finished using alert(number);
 
