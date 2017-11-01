@@ -207,27 +207,3 @@ showNotification({
 ## 11 task
 
 Дан инпут. В него разрешено вводить N символов. При введение текста справа появляется счетчик такого типа - "Осталось ввести 10 символов". После того, как предел достигнут - текст все равно разрешено вводить, только надпись будет типа "Лимит превышен на 10 символов". Вместо 10-ти, конечно же, число в вашем конкретном случае.
-
-## 12 task
-
-Create function testNum() that will take 1 param: phone number string and define whether it have more than 8 symbols, 
-contain only numbers (no slashes and spaces, if have replace them to empty string).
-
-After that create an html page with input field and button, where user will write his/her phone number, 
-after user press enter button on the right your function testNum() will check the phone number he enters 
-and return to user ok (create span under the input field (color of text must be green)) - if pattern match, 
-or error (the same create span with "error" text under (color of text must be red));
-
-After 4 seconds delete the span and the input field should be empty again an the user can try again later.
-
-```javascript
-setTimeout(function () {
- // тут пишем наш код который будет выплняться через 4 секунды
-}, 4000);
-```
-
-## 13 task
-
-```javascript
-/* TODO: add task with form */
-```
