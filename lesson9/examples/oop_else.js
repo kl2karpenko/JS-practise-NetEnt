@@ -14,7 +14,7 @@ function Admin(name, last_name, age) {
   User.call(this, name, last_name, age);
 
   this.isAdmin = function () {
-    return this;
+    return true;
   };
 
   return this;
