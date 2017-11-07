@@ -1,3 +1,12 @@
+#### Links for additional info:
+
+* https://itvdn.com/ru/blog/article/programing-javascript
+* https://habrahabr.ru/post/138062/
+* https://learn.javascript.ru/settimeout-setinterval
+* https://learn.javascript.ru/promise#итого
+* https://habrahabr.ru/company/zerotech/blog/317256/
+
+
 ## 1 task
 
 Напишите функцию printNumbersInterval(), которая последовательно выводит в консоль числа от 1 до 20, с интервалом между числами 100мс. То есть, весь вывод должен занимать 2000мс, в течение которых каждые 100мс в консоли появляется очередное число. (используйте setTimeout)
